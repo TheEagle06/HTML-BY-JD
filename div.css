@@ -1,0 +1,29 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+html,body{
+    display: flex;
+    justify-content: center;
+    height: 100%;
+    width: 100%;
+}
+
+div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 25%;
+    width: 25%;
+    text-align: center;
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#div1{
+    background: #661010;
+}
+#div2{
+    background-color: blueviolet;
+   
+}
